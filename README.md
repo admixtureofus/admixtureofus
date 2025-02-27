@@ -1,16 +1,12 @@
-## Hi there 👋
+## PROFILE 👋
 
-<!--
-**admixtureofus/admixtureofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... data analysis projects
-- 🌱 I’m currently learning ...statistics and data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🔭 I’m currently working on data analysis projects
+- 🌱 I’m currently learning statistics and data science
+
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
